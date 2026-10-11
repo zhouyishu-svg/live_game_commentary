@@ -1,0 +1,18 @@
+# 依赖与生成物
+.venv/
+downloads/
+frames/
+install.log
+install_tts.log
+run.log
+_probe.txt
+
+# 密钥文件（不要把 key 提交到仓库）
+api_key.txt
+
+# Office 临时锁定文件
+~$*
+
+# Python
+__pycache__/
+*.pyc
